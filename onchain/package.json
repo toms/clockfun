@@ -1,0 +1,7 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "forge build",
+    "deps:install": "bash scripts/install-deps.sh"
+  }
+}
