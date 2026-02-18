@@ -54,7 +54,7 @@ A fair-launch tax mechanism imposes an initial 99% tax that decays by 1% per min
 | ClockGame | [0x7af30623cded6e86f528143732b576c39521c9ab](https://basescan.org/address/0x7af30623cded6e86f528143732b576c39521c9ab#code) |
 | ClockGameMechanics | [0xa95a45291878DB8D258B69bF6d4453f2BBB6c234](https://basescan.org/address/0xa95a45291878DB8D258B69bF6d4453f2BBB6c234#code) |
 | BondingCurve | [0x51bc0a3afafe6d53c8fe27a624b415d0adf4f05f](https://basescan.org/address/0x51bc0a3afafe6d53c8fe27a624b415d0adf4f05f#code) |
-| ClockHook (Uniswap v4) | [0x6ad9e9250fc26d3f4794a419a411734d5e0960cc](https://basescan.org/address/0x6ad9e9250fc26d3f4794a419a411734d5e0960cc#code) |
+| ClockHook | [0x6ad9e9250fc26d3f4794a419a411734d5e0960cc](https://basescan.org/address/0x6ad9e9250fc26d3f4794a419a411734d5e0960cc#code) |
 
 ---
 
